@@ -1,0 +1,14 @@
+H1 {
+    color: blue;
+}
+
+#divAbsoluto {
+    position: absolute;
+    left:0px;
+    top:500px;
+}
+#divHoja {
+    position: absolute;
+    left:100px;
+    top:-100px;
+}
